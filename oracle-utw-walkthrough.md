@@ -1,3 +1,11 @@
+---
+title: "Oracle - UnderTheWire (Walkthrough)"
+published: true
+description: "A walkthrough of the game oracle at underthewire.tech"
+tags: security, powershell, ctf
+---
+
+
 # Oracle — Under The Wire (Walk-through)
 
 **Published:** 2025-08-14
